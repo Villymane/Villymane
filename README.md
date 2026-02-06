@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Villymane
-- 👀 I’m interested in Front-End Development, UX/UI Design
+- 👀 I’m interested in Web Design and Web Development, UX/UI Design
 - 🌱 I’m currently learning and working
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nicolae-valentin-dinca/)
 - 😄 Pronouns: Villymane
-- ⚡ Fun fact: I like gaming
+- ⚡ Fun fact: I like gaming and hip hop music
 
 <!---
 Villymane/Villymane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
